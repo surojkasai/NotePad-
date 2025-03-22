@@ -1,4 +1,4 @@
-# flutter_application_1
+# NotePad+
 
 A new Flutter project.
 
